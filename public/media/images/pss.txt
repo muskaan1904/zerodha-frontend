@@ -1,0 +1,75 @@
+user-name=muskandbuser
+password=5x6nt@nM
+url mmongo=mongodb+srv://muskandbuser:<db_password>@cluster0.ijiv9f5.mongodb.net/?appName=Cluster0
+
+mongodb+srv://muskandbuser:5x6nt@nM@cluster0.ijiv9f5.mongodb.net/wanderlust?appName=Cluster0
+mongodb+srv://muskandbuser:5x6nt@nM@cluster0.ijiv9f5.mongodb.net/?appName=Cluster0
+
+
+<h1>zerodha clone notes--</h1>
+o need of folders will remove-- readme.md this is react documentation cmnds and all how to build and test md stands for mark down  means -# means h1 level heading ----delete this readme.ms
+
+setup of folders----------************
+2----- package.json --imp file node packages here like react ,react dom and all change use terminal not manual,lock json maintain itself
+3------node modules imp dont share this  ---npm install ,package.json read package and download from node  only share code and package .json  
+4------ package.lock json --- track other package dependencies that are external and requirements,lock means  no change  
+5------ gitignore will not post on GitHub
+6---- db secret key url password and all
+7------- public folder
+8------- manifest file is imp, take track of that things which are store in cache, sometime we node things we store in browser cache memory, loading time reduce using this 
+9------- robots.txt  -----imp file seo -- se read and behalf of instructions and crawling--search engine optimization --hidden routes we can route in Disallow-crawller will not visit disallow file in robots.txt
+10------delte wereportvital--bcz its not imp for our project 
+11-------setup test.js still not required further we will create
+12----delete logo app.js and app.css also app.test.js delte further create
+
+############next vdo  output study*********initialize git ,commit and branch with this ---
+1--=-----terminal in frontend ,initialized git using cmnd ---gitinit
+2.--------git add.    -------it will add files which we changes sign M -- then git commit -m "initial setup"  -----it will give track which file we delete
+3--------create branch cmnd checkout if we create new branch use cmnd git checkout -b (branch name)project -structure 
+
+
+************landing page***********
+
+1-------in landing page create home page folders ,support pricing signup ,ptoduct total 6 folders----in ome folder create Navabr.js file
+2-------Hero component file in  home folder this is a 1 page front home page ,in which create one more Awards.js file,stacks.js of trust confidence customer and all-- pricing .js ,education.js,open ACCOUNT.JS,FOoter.js ,footer and open account out of home folder it will use in various places  create a HomePage.js it will wrap all home page components...
+3-------now in signup folder only need one component, signup.js and footer that is already out for all
+4.-------About folder,one hero.js aand human photo part ,Hero.js,Team.js ,AboutPage.js 
+
+5-------hero section and other is left image and right image ,.js  in product folder also universe.js
+6-------Pricing folder---files,Hero,open cc is already, Brokerage.js need to create ,to add this all things in one page is pricingPAGE.js file
+7---------support folder---- navigate change littlein this  ,hero .js, createTicket.js, one is supportPage.js which will wrapper page for both other pages---done all files and folders start writing code  
+
+
+=====************git commit new changes innrepostery  use git add . and then git commit -m "component structure setup"
+
+**********===Home page start coding
+
+1-for Home component create branch --git checkout -b home-component
+2------firat we will code in empty files and then wrapped this in one file
+3--simple react snippets---shortcuts ffc -function,imr --import react extension
+4---here we call tje HomePage in index.js instead of App.js 
+
+5----use bootstrap library/framework for styling--getbootstrap.com--script and cdn link both add in index.html--
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
