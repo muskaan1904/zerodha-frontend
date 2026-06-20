@@ -22,7 +22,7 @@ function Team() {
     </p>  
     <p> Playing basketball is his zen
     </p>
-    <p>Connect on <a href="#" style={{textDecoration:"none"}}>Homepage/ TradingQnA /Twitter</a></p>
+    <p>Connect on <a href="https://homepage.com" style={{textDecoration:"none"}}>Homepage/ TradingQnA /Twitter</a></p>
 </div>
       </div>
     </div>
