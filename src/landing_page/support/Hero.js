@@ -5,7 +5,7 @@ function Hero() {
 
       <div className="p-5" id="supportWrapper">
         <h4> Support Portal</h4>
-        <a href=""> Track Tickets</a>
+        <a href="https://support.zerodha.com"> Track Tickets</a>
       </div>
 
       <div className="row p-5-3">
@@ -16,24 +16,24 @@ function Hero() {
           <input placeholder="Eg.how do i active F&O" style={{height:"30px"}}/>
 
           <br/>
-            <a href="">Track account opening</a>
-            <a href="">Track segment activation</a>
-            <a href="">Intrsday margins</a>
-            <a href="">Kite user manual</a>
+            <a href="https://support.zerodha.com">Track account opening</a>
+            <a href="https://support.zerodha.com">Track segment activation</a>
+            <a href="https://support.zerodha.com">Intrsday margins</a>
+            <a href="https://support.zerodha.com">Kite user manual</a>
         </div>
         <div className="col p-5">
             <h1 className="fs-3">Featured</h1>
 <ol>
     <li>
-        <a href="">hello</a>
+        <a href="https://support.zerodha.com">hello</a>
     </li>
     <li>
-         <a href="">hi i sm</a>
+         <a href="https://support.zerodha.com">hi i sm</a>
          </li>
 </ol>
 
-             <a href="">Current Takeovers and Delisting-January 2024</a>
-            <a href="">Latest Intraday leverages-MIS & CO</a>
+             <a href="https://support.zerodha.com">Current Takeovers and Delisting-January 2024</a>
+            <a href="https://support.zerodha.com">Latest Intraday leverages-MIS & CO</a>
          </div>
       </div>
     </section>
