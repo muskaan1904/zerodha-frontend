@@ -22,7 +22,7 @@ import React from 'react'
 
                 </div>
                 <div className='col-6 p-5'>
-                    <img src='media/images/ecosystem.png' style={{width:"90%"}}/>
+                    <img src='media/images/ecosystem.png' style={{width:"90%"}}  alt="ecosystem"/>
 <div className='text-center'>
     <a  href="https://zerodha.com/products"
   target="_blank"

@@ -4,7 +4,7 @@ function Brokerage() {
     <div className="container">
       <div className="row p-5 mt-5 text-center border-top">
         <div className="col-8 p-4 ">
-<a    href="https://zerodha.com/brokerage-calculator"
+<a href="https://zerodha.com/brokerage-calculator"
   target="_blank"
   rel="noopener noreferrer" style={{textDecoration:"none"}}>
     <h3 className="fs-5">Brokerage calculator</h3></a>
@@ -25,7 +25,7 @@ for equity (whichever is lower).</li>
 
 
  <div className="col-4 p-4">
-<a   href="https://zerodha.com/brokerage-calculator"
+<a href="https://zerodha.com/brokerage-calculator"
   target="_blank"
   rel="noopener noreferrer" style={{textDecoration:"none"}}><h3 className="fs-5">List of charges</h3></a>
         </div>
