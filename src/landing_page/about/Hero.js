@@ -25,8 +25,12 @@ import React from 'react'
 <div className='col-6 p-5'>
    <p>In addition, we run a number of popular open online educational and 
     community initatives to wmpoer retail traders and investors.</p> 
-   <p> <a href="https://rainmatter.com"
-  target="_blank" style={{textDecoration:"none"}}> Rainmatter</a>, our fintech fund and incubator, has invested in several fintech startups with
+   <p> <a 
+    href="https://example.com"
+  target="_blank"
+  rel="noreferrer"
+   
+style={{textDecoration:"none"}}> Rainmatter</a>, our fintech fund and incubator, has invested in several fintech startups with
      the goal of growing the indian capital markets.</p> 
    <p> And yet, we are always up to something new 
     every day Catch up on the latest updates on our blog or the media is saying about us.</p> 
